@@ -1,0 +1,13 @@
+/* Basic styling (replace with Tailwind setup if preferred) */
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f8fafc;
+  color: #0f172a;
+}
+
+button {
+  cursor: pointer;
+}
